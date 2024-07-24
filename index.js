@@ -11,6 +11,6 @@ const PORT = process.env.PORT
 
 
 
-app.listen(PORT,()=> {
-    console.log(`App is Running Smooth on ${PORT}`)
+app.listen(5001,()=> {
+    console.log(`App is Running Smooth on ${5001}`)
 })
